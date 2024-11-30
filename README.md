@@ -28,8 +28,6 @@ A comprehensive report and dashboard was created using the provided data, focusi
 
 - **Live Power BI Dashboard**
  [View the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDU0YThmZWQtMjAzZS00ZDJkLWI5OTEtYmIyYmVhMWIzZmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- **Report**
- [View Report here.](https://github.com/Mohit209e/Hospitality-Domain-Data-Analytics-Project/blob/6b635e4a055e93ee3698e6edb2f2ca93ae882bee/Hospitality%20Domain%20Data%20Analysis%20Project.docx)
 
 ### Key Financial Metrics
 - Revenue, RevPAR (Revenue per available room), ADR (Average Daily Rate).
@@ -47,8 +45,5 @@ Focused on financial performance with similar filters, excluding performance met
 - **Financial Performance by Hotels**: Varied revenue, RevPAR, and ADR among AtliQ Grands properties.
 - **By Room Class**: Performance differences across room categories.
 - **By City**: Revenue and rate comparisons among cities where AtliQ Grands operates.
-
-## Acknowledgments
-- Codebasics for the challenge opportunity.
 
 ## Thank You!
